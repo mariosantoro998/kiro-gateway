@@ -849,7 +849,7 @@ Every contribution helps keep this project alive and growing
 | Currency | Network | Address |
 |:--------:|:-------:|:--------|
 | **USDT** | TRC20 | `TSVtgRc9pkC1UgcbVeijBHjFmpkYHDRu26` |
-| **BTC** | Bitcoin | `12GZqxqpcBsqJ4Vf1YreLqwoMGvzBPgJq6` |
+| **BTC** | Bitcoin | `bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n` |
 | **ETH** | Ethereum | `0xc86eab3bba3bbaf4eb5b5fff8586f1460f1fd395` |
 | **SOL** | Solana | `9amykF7KibZmdaw66a1oqYJyi75fRqgdsqnG66AK3jvh` |
 | **TON** | TON | `UQBVh8T1H3GI7gd7b-_PPNnxHYYxptrcCVf3qQk5v41h3QTM` |
